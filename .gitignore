@@ -2,8 +2,6 @@
 
 *.ipynb
 
-final_bertCopy_model/
-final_bertCopy_tokenizer/
 
 __pycache__/
 *.pyc
